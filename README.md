@@ -14,7 +14,7 @@ This is a **Streamlit** web application that provides book recommendations based
 
 You can see a working demo of the app below:
 
-![Book Recommendation App Demo](https://book-recommendation-system-desktop-app.streamlit.app/)
+[Book Recommendation App Demo](https://book-recommendation-system-desktop-app.streamlit.app/)
 
 ## How it works
 
